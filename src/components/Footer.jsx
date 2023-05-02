@@ -44,19 +44,19 @@ const Footer = () => {
       </div>
       <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
         <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
-          Copyright Ⓒ 2023 Sayed Hany.
+          Copyright Ⓒ 2023 Roy Cuadra.
         </p>
 
         <div className="flex flex-row md:mt-0 mt-6 text-white">
           <a
-            href="https://www.linkedin.com/in/sayed-hany-b30946192/"
+            href="https://www.linkedin.com/in/roy-cuadra-4b39b3220/"
             target="_blank"
             className="text-[20px] mr-3 hover:scale-150 hover:rotate-45 hover:text-secondary"
           >
             <FiLinkedin />
           </a>
           <a
-            href="https://github.com/sayedhany"
+            href="https://github.com/roycuadra"
             target="_blank"
             className="text-[20px] mr-3 hover:scale-150 hover:rotate-45 hover:text-secondary"
           >
@@ -64,20 +64,20 @@ const Footer = () => {
           </a>
           <a
             target="_blank"
-            href="mailto:sayedhany975@gmail.com"
+            href="mailto:roycuadra16@gmail.com"
             className="text-[20px] mr-3 hover:scale-150 hover:rotate-45 hover:text-secondary"
           >
             <AiOutlineMail />
           </a>
           <a
             target="_blank"
-            href="tel:0201201500975"
+            href="#"
             className="text-[20px] mr-3 hover:scale-150 hover:rotate-45 hover:text-secondary"
           >
             <AiFillPhone />
           </a>
           <a
-            href="https://api.whatsapp.com/send?phone=0201201500975"
+            href="#"
             className="text-[20px] mr-3 hover:scale-150 hover:rotate-45 hover:text-secondary"
           >
             <AiOutlineWhatsApp />
